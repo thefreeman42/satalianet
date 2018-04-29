@@ -1,4 +1,4 @@
 *.csv
-.idea/*
-.Rhistory
+.*
 __py*
+*.RData

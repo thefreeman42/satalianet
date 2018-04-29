@@ -1,3 +1,5 @@
+from ast import literal_eval
+
 class Conversation(object):
 
     def __init__(self):
@@ -7,23 +9,31 @@ class Conversation(object):
     def idlist(self):
         return list(self.msgcount)
 
-    def add_new_msg(self):
-        pass
+    def add_new_msg(self, user, mentions):
+        try:
+            self.msgcount[user] += 1
+        except KeyError:
+            self.msgcount[user] = 1
+        if mentions is not None:
+            for m in mentions:
+                if user != m:
+                    self.mentions.append((user, m))
+
+    def total(self):
+        return sum([v for k, v in self.msgcount.items()])
+
+    def __str__(self):
+        return '{0}\n{1}'.format(self.msgcount, self.mentions)
 
 
 class Channel(Conversation):
 
-    def __init__(self, name, type="none"):
+    def __init__(self, type=None):
         super().__init__()
-        self.name = name
         self.type = type
-        self.threads = list()
+        self.replies = list()
 
-    def add_new_msg(self):
-        pass
-
-class Thread(Conversation):
-
-    def __init__(self, p):
-        super().__init__()
-        self.parent = p
+    def add_new_msg(self, user, mentions, parent):
+        super().add_new_msg(user, mentions)
+        if parent is not None and user != parent:
+            self.replies.append((user, parent))
