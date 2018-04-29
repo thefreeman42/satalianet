@@ -1,0 +1,74 @@
+"","hubble_id","name","slack_id","slack_user","relationship","sat_score"
+"1",63,"Benas Nedzviega","U1STRDDQB","benas","DataDog Contractor",NA
+"2",3,"Rusty Nash","U02EENFGK","rusty","Employee",90
+"3",6,"Avida Hancock","U06U2FKJ4","avida","Employee",NA
+"4",9,"Harry Edmonds","U02EEHT1J","harry","Employee",87
+"5",66,"Karsten Lehmann","U2J6KKL1H","karsten","Employee",NA
+"6",69,"Jane Jakeman","U02ELHV92","jane","Contractor",95
+"7",23,"Chris Stutz","U04PVV50R","chris","Contractor",NA
+"8",26,"Darius Aliulis","U1G84H2MN","darius.aliulis","DataDog Contractor",NA
+"9",58,"Tomas Jancauskas","U0CT2TPH8","tomas","DataDog Contractor",86
+"10",30,"Evelina Mikelaityte","U0JDV9JG2","evelina","DataDog Contractor",83
+"11",59,"Tomas Lekavicius","U1JQT3G6B","tomas.lekavicius","DataDog Contractor",73
+"12",27,"Darius Tumas","U07EF43N3","darius.t","DataDog Contractor",88
+"13",27,"Darius Tumas","U0LMZS9LL","darius","DataDog Contractor",88
+"14",11,"Adam West","U054SL2DJ","adam","Employee",84
+"15",14,"Alex Lilburn","U0J5Z7N79","alexlilburn","Employee",80
+"16",14,"Alex Lilburn","U0LN2N1M1","alex","Employee",80
+"17",4,"Daniel Hulme","U02EBRG16","daniel","Employee",NA
+"18",73,"Paulius Paplauskas","U324431QA","paulius","DataDog Contractor",NA
+"19",56,"Stephen Goodman","U1Q840YMT","steve","Employee",89
+"20",33,"Guangyan Song","U02EEJB7E","guangyan","Employee",91
+"21",10,"Vito Tumas","U1K1P0ENR","vito","Employee",NA
+"22",53,"Roberto Anzaldua","U0C7MPQNP","roberto","Employee",87
+"23",16,"Alistair Ferag","U0C9GGXLH","alistair","Employee",91
+"24",50,"Paul Hart","U0QJ5MR5K","paulh","Employee",NA
+"25",50,"Paul Hart","U0ZEL9V0F","paul","Employee",NA
+"26",32,"Gediminas Morkevicius","U0LUANYAH","gediminas","DataDog Contractor",NA
+"27",51,"Petras Razanskas","U1MMCC6LU","petras","DataDog Contractor",87
+"28",40,"Mariflor Vega","U0DQ5GBHP","mariflor","Employee",NA
+"29",79,"Dessie Petrova","U3DNVV2PP","dessie","Employee",88
+"30",74,"Filippo Bovo","U2MDV517C","filippob","Employee",NA
+"31",74,"Filippo Bovo","U35T4ABD0","filippo","Employee",NA
+"32",17,"Andrea Rendl","U0HJTJATX","andrea","Employee",92
+"33",5,"Mantas Radzevičius","U07EDPS2Z","mantas","DataDog Contractor",83
+"34",62,"Yohann Pitrey","U0MBK1CD8","yohann.pitrey","Employee",69
+"35",62,"Yohann Pitrey","U14K5KWC8","yohann","Employee",69
+"36",65,"Beatričė Zalbaitė","U28A87KPT","beatrice","DataDog Contractor",NA
+"37",52,"Philipp Hungerlaender","U056HCTHB","philipp","Contractor",NA
+"38",82,"Vaida Valukonytė","U3M4KMW9L","vaida","DataDog Contractor",78
+"39",78,"Peter Knight","U3ADY06QJ","peter.knight","Contractor",NA
+"40",80,"Daniel Savu","U3KNQ0W05","daniel.savu","Intern Employee",NA
+"41",81,"Youri Moskovic","U3KET0W1W","youri","Employee",93
+"42",83,"Jai Clarke-Binns","U3LL88VK4","jai","Employee",NA
+"43",85,"Alexandros Baltas","U3RPV7A6M","albaltas","Contractor",90
+"44",85,"Alexandros Baltas","U41TLDGDC","alexandros","Contractor",90
+"45",92,"Gerard Cardoso","U44TLK613","gerard","Intern Employee",83
+"46",90,"Joshua Cooper","U4448DQSV","joshua","Intern Employee",90
+"47",138,"Christina Burt","U3YB68E3X","christina","Employee",88
+"48",42,"Marius Ceilytka","U1S309HPG","mariusceilytka","DataDog Contractor",NA
+"49",143,"Alexandre Martin","U5E92J44W","alexandre.martin","Contractor",NA
+"50",141,"Angela Yin","U49GNA6NM","angelay","Employee",96
+"51",141,"Angela Yin","U5BAAKU91","angela","Employee",96
+"52",146,"Maria Nicolae","U5F4FEFEJ","maria.nicolae","Intern Employee",94
+"53",145,"Radu Mazilu","U5DL2NBLY","radu.mazilu","Intern Employee",93
+"54",55,"Shuo Liang","U033RN09L","shuo","Contractor",NA
+"55",47,"Mindaugas Marazas","U1SHH9F5M","mindaugas","DataDog Contractor",NA
+"56",144,"Kat Klimova","U5FDKBJ00","katerina","Employee",95
+"57",12,"Aiste Zagorskyte","U0ZU8KFAT","aiste","DataDog Contractor",NA
+"58",147,"Ben Calnan","U62MPFGQ4","ben","Employee",NA
+"59",152,"Tommaso Urli","U5H7C4H6Y","tommaso","Employee",NA
+"60",155,"Nicolas Sabatier","U3XV4871Q","nicolas","Intern Employee",NA
+"61",155,"Nicolas Sabatier","U6H8WCSUW","nicolas.sabatier","Intern Employee",NA
+"62",151,"Batuhan Bintas","U6K525FQD","batuhan.bintas","Intern Employee",NA
+"63",156,"Mats Brorsson","U6AJF8ELA","mats","Employee",NA
+"64",154,"Riccardo Volpato","U5T0HNKL5","riccardo.volpato","Contractor",76
+"65",153,"Panos Repoussis","U61HYMN8N","panos","Contractor",NA
+"66",157,"Simonas Vaskevicius","U793UDNG6","simonas","DataDog Contractor",NA
+"67",158,"Una Benlic","U7JTNJR7H","una","Employee",NA
+"68",160,"Auste Treciakauskaite","U86SQP4AJ","auste","DataDog Contractor",NA
+"69",150,"David Pharo","U5S8X8491","david.pharo","Contractor",NA
+"70",161,"Mantvydas Buda","U88LUJ61X","mantvydas","DataDog Contractor",85
+"71",162,"Sebastian Schenker","U8JP5RETW","sebastian","Employee",NA
+"72",164,"Valdas Kalvaitis","U6K45EJQ1","valdas","DataDog Contractor",NA
+"73",165,"Jeremy Chao","U90T59E64","jeremy","Intern Employee",NA
